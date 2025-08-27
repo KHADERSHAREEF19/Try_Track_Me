@@ -17,12 +17,12 @@
                 </li>
                 <li>
                     <strong>Navigate into the directory:</strong>
-                    <pre><code>cd YOUR_REPOSITORY_NAME</code></pre>
+                    <pre><code>cd Try_Track_Me</code></pre>
                 </li>
                 <li>
                     <strong>Run the installer:</strong>
                     <pre><code>sudo bash install.sh</code></pre>
-                    <p>This will make the <code>thm_open</code> command available system-wide.</p>
+                    <p>This will make the <code>Try_Track_Me</code> command available system-wide.</p>
                 </li>
             </ol>
             <!-- Usage Section -->
@@ -30,7 +30,7 @@
             <p>
                 Once installed, simply run the command in your terminal:
             </p>
-            <pre><code>thm_open</code></pre>
+            <pre><code>bash Try_Track_Me</code></pre>
             <p>
                 The script will then prompt you to enter the username you want to look up.
             </p>
