@@ -13,7 +13,7 @@
             <ol>
                 <li>
                     <strong>Clone the repository</strong> (replace with your GitHub username and repo name):
-                    <pre><code>git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git</code></pre>
+                    <pre><code>git clone https://github.com/KHADERSHAREEF19/Try_Track_Me.git</code></pre>
                 </li>
                 <li>
                     <strong>Navigate into the directory:</strong>
