@@ -23,7 +23,7 @@ echo "==========================================================================
 echo ""
 
 # Prompt for username
-read -p "Enter username to search: " username
+read -p "[+] Enter username to search: " username
 
 # Check if a username was entered
 if [ -z "$username" ]; then
