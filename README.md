@@ -5,6 +5,7 @@
             <p>
                 A simple, interactive command-line tool to quickly open any user's TryHackMe profile in your browser.
             </p>
+            <img src = https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcamo.githubusercontent.com%2F8344fb374e8ab4778452dccbd376aefc4b5c934318403b2010a677def1e30618%2F68747470733a2f2f692e706f7374696d672e63632f6d5a6d73566656382f66373435303435342d313538632d343565302d386233382d3063306165346437333934632e706e67&f=1&nofb=1&ipt=cce3ee7cc239c3a26b482a28d761c44d9c2dd01d69b1a1ed8ed9ade09a02c580 alt="Tool Logo" width="400">
             <hr>
             <h2>🚀 Installation</h2>
             <p>
