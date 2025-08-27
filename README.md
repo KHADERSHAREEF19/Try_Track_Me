@@ -35,7 +35,7 @@
             <p>
                 The script will then prompt you to enter the username you want to look up.
             </p>
-            <pre><code>Enter username to search: tryhackme
+            <pre><code>Enter username to search: John Doe
 🔎 Opening profile for 'tryhackme'...
 ✅ Done!</code></pre>
             <!-- Uninstall Section -->
